@@ -1,0 +1,14 @@
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\bin\Debug\net6.0\Object & Strings - Price_Jacob.exe
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\bin\Debug\net6.0\Object & Strings - Price_Jacob.deps.json
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\bin\Debug\net6.0\Object & Strings - Price_Jacob.runtimeconfig.json
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\bin\Debug\net6.0\Object & Strings - Price_Jacob.dll
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\bin\Debug\net6.0\Object & Strings - Price_Jacob.pdb
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\obj\Debug\net6.0\Object & Strings - Price_Jacob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\obj\Debug\net6.0\Object & Strings - Price_Jacob.AssemblyInfoInputs.cache
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\obj\Debug\net6.0\Object & Strings - Price_Jacob.AssemblyInfo.cs
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\obj\Debug\net6.0\Object & Strings - Price_Jacob.csproj.CoreCompileInputs.cache
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\obj\Debug\net6.0\Object & Strings - Price_Jacob.dll
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\obj\Debug\net6.0\refint\Object & Strings - Price_Jacob.dll
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\obj\Debug\net6.0\Object & Strings - Price_Jacob.pdb
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\obj\Debug\net6.0\Object & Strings - Price_Jacob.genruntimeconfig.cache
+C:\Users\JacobPrice\source\repos\Object & Strings - Price_Jacob\obj\Debug\net6.0\ref\Object & Strings - Price_Jacob.dll
